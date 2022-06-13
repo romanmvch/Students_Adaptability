@@ -1,8 +1,7 @@
 <h2 align="center">
-<img src="[http://edu.bmstu.ru/local/templates/edu_bauman/images/logo.png](https://phonoteka.org/uploads/posts/2021-07/1625197658_55-phonoteka-org-p-distantsionnoe-obuchenie-zastavka-krasivie-59.png)" width="45%" >  
+<img src="https://telecom4good.org/wp-content/uploads/2019/04/AdobeStock_233066089-Converted-3-768x427.png" width="55%" >  
 
 <h1 align="center">Students Adaptability</h1>
-<h2 align="center">
 
 ## Описание
 Дистанционное обучение (ДО) – это образовательный процесс с использованием технологий, обеспечивающих общение обучающихся и преподавателей на расстоянии, без непосредственного контакта.
